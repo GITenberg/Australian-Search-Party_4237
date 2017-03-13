@@ -1,5 +1,8 @@
 _repo: Australian-Search-Party_4237
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eden, Charles H. (Charles Henry)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/910
     wikipedia: http://en.wikipedia.org/wiki/Henry_Walter_Bates
 description: 'From: Illustrated travels: a record of discovery, geography, and adventure.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4237#Australian-Search-Party
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
